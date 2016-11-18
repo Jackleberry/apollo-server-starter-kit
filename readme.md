@@ -1,0 +1,1 @@
+A simple apollo server starter kit for my sandboxing. 
